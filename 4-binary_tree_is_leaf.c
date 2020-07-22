@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * binary_tree_is_leaf - cut down a binary tree
+ * binary_tree_is_leaf - check if node is leaf
  * @node: node to check
  * Return: 0 if is no leaf, 1 if is leaf
  */

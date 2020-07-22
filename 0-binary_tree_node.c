@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * binary_tree_node - insert a binary tree node
- * @parent: The parent(branch) of the leaf to insert
+ * binary_tree_node - create a binary tree node
+ * @parent: The parent(branch) of the leaf to create
  * @value: Ordinal value to insert in binary tree
  * Return: Pointer to the node inserted
  */

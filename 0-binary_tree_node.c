@@ -1,5 +1,6 @@
 #include "binary_trees.h"
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * binary_tree_node - insert a binary tree node
  * @parent: The parent(branch) of the leaf to insert

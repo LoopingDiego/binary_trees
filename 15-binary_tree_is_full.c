@@ -19,5 +19,5 @@ int binary_tree_is_full(const binary_tree_t *tree)
 		siz_right = binary_tree_is_full(tree->right);
 		siz_right += 1;
 	}
-	return (siz_left == siz_right);	
+	return (siz_left == siz_right);
 }
